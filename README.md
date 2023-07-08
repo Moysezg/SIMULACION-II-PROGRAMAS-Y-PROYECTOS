@@ -1,2 +1,2 @@
-# Bondad-de-Ajuste-de-Chi-cuadrado
+# Simulación programas y proyecto aquí
 Programa de phyton
